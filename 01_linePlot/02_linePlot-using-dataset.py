@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 import pandas as pd
 
-df = pd.read_csv("penguins.csv").head(50)
+df = pd.read_csv("/home/shivam111/Desktop/seaborn/penguins.csv").head(50)
 
 # ===================== * Filling null values * ==============================================================================
 
