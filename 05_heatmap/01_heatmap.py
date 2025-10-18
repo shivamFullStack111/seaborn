@@ -54,9 +54,6 @@ grph= sns.heatmap(
     # yticklabels=False,   # Hide y label    
 )
 
-
-
-
 grph.set(xlabel="x label",ylabel="y label")   # Custom label
 sns.set(font_scale=4)   # This will scale fontsize in entire graph
 
