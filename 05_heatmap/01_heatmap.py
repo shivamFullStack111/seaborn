@@ -17,18 +17,28 @@ plt.show()
 # Heapmap only for numbers data if there are multiple columns in dataset with different different datatype columns like int, float, string then only filter that columns which data type is number you can drop other columns
 
 
-# ===================================================== Explanation of sns.heatmap() parameters =====================================================
+# ============================= Explanation of sns.heatmap() parameters =================================================================================
 
 # data:         The main data source (DataFrame or 2D array) to visualize in a heatmap.
+
 # vmin:         Minimum value for the colormap. Controls the color starting point.
+
 # vmax:         Maximum value for the colormap. Controls the color endpoint.
+
 # cmap:         Defines color scheme or palette (like 'coolwarm', 'Reds', 'Blues', 'viridis', etc.)
+
 # annot:        If True, it shows numeric values inside each cell.
+
 # annot_kws:    A dictionary used to style annotation text (font size, color, weight, etc.)
+
 # linewidths:   Thickness of the border lines between each cell.
+
 # linecolor:    Color of the borders between cells.
+
 # cbar:         If True (default), shows a color scale bar on the side. False hides it.
+
 # xticklabels:  Controls visibility of column names (x-axis labels). True = show, False = hide.
+
 # yticklabels:  Controls visibility of row names (y-axis labels). True = show, False = hide.
 
 # ===================================================================================================================================================
