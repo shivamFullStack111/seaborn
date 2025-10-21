@@ -1,4 +1,4 @@
-# 🐧 Seaborn Visualization Practice
+# 🐧 Seaborn Visualization Basics
 
 This repository contains examples of all important **Seaborn plots**.  
 Each script shows how to create different graphs using the **Penguins dataset** (`penguins.csv`).
